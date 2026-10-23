@@ -5,6 +5,11 @@
 </div>
 
 this guide will be mostly a mix of the original one, and some things i added.
+<div align="center">
+    <p>
+      <h1>THIS IS A FAN MADE PROJECT AND IS NOT AFFILIATED WITH ROBLOX</h1>
+    </p>
+</div>
 
 (original guide by <a href="https://github.com/SrCookie450">SrCookie450</a>, changed and site fixed by <a href="https://github.com/harryzawg">harryzawg</a>)
 
