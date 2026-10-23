@@ -1,6 +1,6 @@
 <div align="center">
     <p>
-      <h1>BubbaBlox</h1>
+      <h1>Boba</h1>
     </p>
 </div>
 
